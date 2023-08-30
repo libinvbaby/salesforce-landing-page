@@ -2271,7 +2271,7 @@ border: 2px solid #ff007a;
   }
 }
 .img, img {
-    max-width: 100%;
+    max-width: 220px;
     transition: all 0.3s ease-out 0s;
 }
 .pro-filter select {
